@@ -1,16 +1,26 @@
-## Hi there 👋
-
-<!--
-**haraldpdl/haraldpdl** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-
-Here are some ideas to get you started:
-
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+                           /`.    /`.
+                          f   \  ,f  \
+              Gee Brain,  |    \/-`\  \      The same thing we do
+           what do you    i.  _\';.,X j      every night, Pinky.
+             want to do    `:_\ (  \ \',-.   Try to take over
+                  tonight?   .'"`\ a\eY' )   the world!  _,.
+                             `._"\`-' `-/            .-;'  |
+                               /;-`._.-';\.        ,',"    |
+                             .'/   "'   | `\.-'""-/ /      j
+                           ,/ /         i,-"        (  ,/  /
+                        .-' .f         .'            `"/  /
+                       / ,,/ffj\      /          .-"`.'-.'
+                      / /_\`--//)     \ ,--._ .-'_,-'; /
+                     f  ".-"-._;'      `._ _.,-i; /_; /
+                     `.,'   |; \          \`\_,/-'  \'
+                      .'    l \ `.        /"\ _ \`  j
+                      f      : `-'        `._;."/`-'
+                      |      `.               ,7  \
+                      l       j             .'/ - \`.
+                     .j.  .   <            (.'    .\ \f`. |\,'
+                    ,' `.  \ / \           `|      \,'||-:j
+                  .'  .'\   Y.  \___......__\ ._   /`.||
+          __.._,-" .-"'"")  /' ,' _          \ |  /"-.`j""``---.._
+            .'_.-'"     / .("-'-"":\        ._)|_(__. "'
+           ;.'         /-'---"".--"'       /,_,^-._ .)
+           `:=.__.,itz `---._.;'
